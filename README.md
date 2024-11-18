@@ -81,6 +81,13 @@ This Project Heavily relies on Serial Communication Between Arduino Mega and ESP
 - Controls various devices using Blynk's virtual datastream.
 - Monitors the status of devices and allows remote control from a smartphone.
 
+### Appscript
+
+#### **'Appscript.gs'**
+- Google sheet has two sheets one has user name and Ids (Usersheet) and other contains logging information (Logsheet)
+- when it recieves message via http by ESP8266 with user ID it looks up the corresponding user name and logs it in the Logsheet.
+
+
 ## Features
 
 ### Home Security
