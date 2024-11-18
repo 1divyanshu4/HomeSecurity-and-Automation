@@ -14,6 +14,7 @@ This project consists of a Home Security System and an Automation System using t
 - [Code Structure](#code-structure)
   - [Home Security](#home-security)
   - [Automation](#automation)
+  - [Google Sheet Appscript](#appscript)
 - [Features](#features)
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
