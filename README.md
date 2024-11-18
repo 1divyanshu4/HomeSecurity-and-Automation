@@ -4,6 +4,7 @@ This project is an IoT-based home security and automation system that leverages 
 
 ## Features
 
+- Serial Communication Between Arduino Mega and ESP8266 Microcontroller
 - **Modes of Unlocking**: 
   - **Fingerprint Unlock Mode**: Uses a fingerprint sensor for authentication.
   - **Keypad Unlock Mode**: Allows unlocking via keypad input.
