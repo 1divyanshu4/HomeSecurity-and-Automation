@@ -20,7 +20,7 @@ This project is an IoT-based home security and automation system that leverages 
 - ST7920 LCD
 - Relay for Door Lock
 - Keypad
-- Pushbullet for notifications
+- Blynk for notifications and IOT
 
 ## Software Libraries
 
@@ -73,6 +73,7 @@ This project is an IoT-based home security and automation system that leverages 
 ## Future Improvements
 
 - Adding more robust security features.
+- Replacing Arduino Mega and ESP-8266 with Raspberry pi for compact Design
 - Enhancing the GUI experience.
 - Expanding functionality for additional automation tasks.
 
