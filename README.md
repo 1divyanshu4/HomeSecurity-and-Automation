@@ -85,6 +85,7 @@ This Project Heavily relies on Serial Communication Between Arduino Mega and ESP
 ### Home Security
 - **Fingerprint Authentication**: Unlock the door using registered fingerprints.
 - **Keypad Authentication**: Enter a password to unlock the door.
+- **Google Sheets Logging**: Every entry is logged there 
 - **Master Lock Mode**: Activates after multiple wrong attempts, requiring a reset through Blynk.
 - **Remote Control**: Use Blynk or Pushbullet to reset the lock or manage settings.
 
